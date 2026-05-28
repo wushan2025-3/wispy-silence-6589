@@ -1,6 +1,6 @@
 export default {
   async fetch(request, context, env) {
-    const test1 = env.test1;
+    const test1 = env.test;
     const test2 = env.test2;
     const test3 = env.test3;
     const test4 = env.test4;
