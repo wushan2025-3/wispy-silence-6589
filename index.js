@@ -12,7 +12,7 @@
 
 //     return new Response(`test1 is : ${test1}, test2 is : ${test2}, test3 is : ${test3}, test4 is : ${test4} ,test5 is : ${test5}, tEst5 is : ${tEst5}, tesT6 is : ${tesT6}`);
 //   },
-// };
+// }; 
  
 
 import { env } from "alibaba:workers";
