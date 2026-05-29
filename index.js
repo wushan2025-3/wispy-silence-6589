@@ -19,7 +19,7 @@ export default {
 //   async fetch(request, context) {
 //     const { env } = await import("alibaba:workers");
 //     const test1 = env.test;
-//     const test2 = env.test2;
+//     const test2 = env.test2; 
 //     const test3 = env.test3;
 //     const test4 = env.test4;
 //     const test5 = env.test5;
